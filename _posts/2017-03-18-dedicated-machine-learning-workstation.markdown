@@ -4,7 +4,7 @@ layout: post
 ---
 
 after my old *5-node-raspy-2-distributed-computing-training cluster* 
-![cluster][https://jvarg.github.io/assets/images/postimages/cluster.JPG]
+![cluster][http://zeroispri.me/assets/images/postimages/cluster.JPG]
 found it's end in 2 other projects, i'm ready for a new project and repurpose my old workstation **AMD Phenom x6 1090T, SSD, Radeon HD6850**.
 as a server for playing with Keras bundled with Theano & Tensorflow
 as well as caffe and the usual machine-learning-supects.
