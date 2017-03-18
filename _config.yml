@@ -21,7 +21,7 @@ url: https://jvarg.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+ analytics-google: 'UA-31538515-3'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -40,7 +40,7 @@ twitter: hnzjo
 # pinterest: mypinterest
 linkedin: h0xff
 # youtube: myyoutube
-spotify: hanziiiiii
+spotify: hanzzzzzzi
 github: jvarg
 stackoverflow: 583296/perceptron
 # quora: userquora
