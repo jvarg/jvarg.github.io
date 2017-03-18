@@ -42,7 +42,7 @@ including the download i run the mnist_cnn example in
 ```bash
 real    36m12.687s
 ```
-keep in mind, the tensorflow backend run's only on the CPU without the SSE
+keep in mind, the tensorflow backend run's only on the CPU without the SSE3
 instruction set. 
 
 ![cluster](http://zeroispri.me/assets/images/postimages/cluster.JPG)
