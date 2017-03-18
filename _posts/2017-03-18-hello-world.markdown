@@ -12,5 +12,5 @@ as well as other tech related topics which come to mind.
 
 to close this post with some wise words:
 
-Lorem ipsum dolor!
---julius caesar
+*Lorem ipsum dolor*
+--**julius caesar**
