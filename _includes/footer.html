@@ -1,12 +1,7 @@
-<div class="disclaimer">
-  {% if site.data.theme.show_disclaimer %}
-  <p>
-    The postings on this site are my own and don't necessarily represent my 
-    employer’s positions, strategies or opinions.
-  </p>
-  {% endif %}
+<footer class="footer-main">
+    {{ site.name }} © {{ site.time | date: '%Y' }} <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
 
-  <p>
-    © {{ site.data.theme.name }}, 2014 &mdash; built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://github.com/swanson/lagom">Lagom theme</a>
-  </p>
-</div>
+    <p class="extra">
+        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="http://koppl.in">Kopplin</a>
+    </p>
+</footer>
