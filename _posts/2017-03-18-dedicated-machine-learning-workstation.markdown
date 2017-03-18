@@ -32,4 +32,4 @@ change my ssh-server-config to public-key authentication and im ready to go.
 >just use dtrx (Do The Right Extraction) *apt-get install dtrx*.
 
 ![cluster](http://zeroispri.me/assets/images/postimages/cluster.JPG)
-#H1 *R.I.P in peperonis*
+# *R.I.P in peperonis*
