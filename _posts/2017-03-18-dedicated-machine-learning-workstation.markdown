@@ -31,5 +31,5 @@ change my ssh-server-config to public-key authentication and im ready to go.
 >"extract formula" aka **tar** command to uncompress **tar.bz2/tgz** files,
 >just use dtrx (Do The Right Extraction) *apt-get install dtrx*.
 
-->![cluster](http://zeroispri.me/assets/images/postimages/cluster.JPG)<-
-->*R.I.P in peperonis*<-
+![cluster](http://zeroispri.me/assets/images/postimages/cluster.JPG)
+#H1 *R.I.P in peperonis*
