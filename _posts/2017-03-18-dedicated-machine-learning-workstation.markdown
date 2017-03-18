@@ -5,14 +5,20 @@ layout: post
 
 after my old *5-node-raspy-2-distributed-computing-training cluster* 
 found it's end in 2 other projects, 
-i'm ready for a new project and repurpose my old workstation **AMD Phenom x6 1090T, SSD, Radeon HD6850**
-as a server for playing with __Keras__ bundled with __Theano__ & __Tensorflow__
-as well as __Caffe__ and the usual machine-learning-supects.
+i'm ready for a new project and repurpose my old workstation 
+
+**AMD Phenom x6 1090T, SSD, Radeon HD6850**
+
+as a server for playing with 
+__Keras__ bundled with __Theano__ & __Tensorflow__
+as well as __Caffe__ 
+and the usual machine-learning-supects.
 
 My goal is to use the server as a dedicated testing environment since i run
 out of my AWS-student credit and hopefully get the hackish OpenCL versions/forks of the frameworks up and running.
 
-For the base system i choose Xubuntu since i don't need the great amazon shopping lens and it's a more less hassle free experience for a headless server.
+For the base system i choose Xubuntu since i don't need the great 
+*amazon shopping lens* and it's a more less hassle free experience for setting up a headless server with several packages you have to compile and might not work the way you like and expect.
 
 The software configuration is pretty straight forward, i need
 
@@ -31,5 +37,13 @@ change my ssh-server-config to public-key authentication and im ready to go.
 >"extract formula" aka **tar** command to uncompress **tar.bz2/tgz** files,
 >just use dtrx (Do The Right Extraction) *apt-get install dtrx*.
 
+Compared to my notebook, the Phenom is ok'ish performance wise.
+including the download i run the mnist_cnn example in
+```bash
+real    36m12.687s
+```
+keep in mind, the tensorflow backend run's only on the CPU without the SSE
+instruction set. 
+
 ![cluster](http://zeroispri.me/assets/images/postimages/cluster.JPG)
-# *R.I.P in peperonis*
+# *R.I.P. in peperonis*
