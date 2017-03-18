@@ -1,37 +1,100 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# main text of home
+name: Johannes
+bio: Student research assistent in biometrics with interest in programming languages, big data, it-sec, food \& coffe
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: hannes' blog
-email: 0xhannes gmail
-description: > # this means to ignore newlines until "baseurl:"
-  stuff i do in my freetime
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jvarg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hnzjo
-github_username:  jvarg
+# twitter summary info
+description: A blog about programming and tech
 
-# Build settings
-markdown: kramdown
-theme: lagom
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/logo.png
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://www.linkedin.com/in/h0xff/
+
+url: https://jvarg.github.ios
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+#facebook: myfacebook
+twitter: hnzjo
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: h0xff
+# youtube: myyoutube
+spotify: hanziiiiii
+github: jvarg
+stackoverflow: 583296/perceptron
+# quora: userquora
+# reddit: username
+#medium: medium
+# vimeo: myvimeo
+email: 0xhannes - gmail
+
+authors:
+    hannes:
+        name: Johannes
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/logo.png
+        twitter: hnzjo
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: false
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: false
+
+# do you want some animations?
+animation: true
+
 gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-seo-tag
+  - jekyll-gist
 
-# General Jekyll Config
-highlighter: rouge
-lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+jekyll-mentions:
+    base_url: https://github.com
