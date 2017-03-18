@@ -1,7 +1,7 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#3498db'
+highlight_color: '#0B4C5F'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
@@ -9,11 +9,11 @@ social:
   #bitbucket: philipj
   hacker_news: jvarg
   #stackexchange: 348619
-  #stackoverflow: 348619
+  stackoverflow: 583296
   twitter: hnzjo
   #facebook: zuck
   #tumblr: animalygifs
-  #linkedin: philipjagielski
+  linkedin: h0xff
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
