@@ -13,9 +13,10 @@ layout: page
 	<li>C++</li>
 	<li>Java</li>
 	<li>LaTex</li>
-	<li>golang</li>
-	<li>Image Processing</li>
 	<li>Biometrics</li>
+	<li>Image Processing</li>
+	<li>Radare2</li>
+	<li>Binary Ninja</li>
 	
 </ul>
 
