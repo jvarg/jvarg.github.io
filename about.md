@@ -4,6 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<img src="https://www.hackthebox.eu/badge/image/11231" alt="Hack The Box">
 
 <h2>Skills</h2>
 
