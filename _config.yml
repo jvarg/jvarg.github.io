@@ -1,8 +1,8 @@
 # main text of home
 name: Johannes
-bio: 20+x,M.Sc CS Student, research assistent in biometrics | ♥python ♥tech ♥coffee
+bio: 20+x,M.Sc CS Student, research assistent in biometrics | ♥python ♥tech ♥coffee ♥infoSec
 # twitter summary info
-description: A blog about programming and tech
+description: A blog about nothing
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,7 +34,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: hnzjo
+twitter: x0rxes
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -55,7 +55,7 @@ authors:
         bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/logo.png
-        twitter: hnzjo
+        twitter: x0rxes
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
