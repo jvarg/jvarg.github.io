@@ -17,6 +17,10 @@ layout: page
 	<li>Image Processing</li>
 	<li>Radare2</li>
 	<li>Binary Ninja</li>
+	<li>IDA Pro</li>
+	<li>Pentest</li>
+	<li>*NIX,Windows, MacOS, iOS, Android</li>
+	<li>ARM,X86</li>
 	
 </ul>
 
