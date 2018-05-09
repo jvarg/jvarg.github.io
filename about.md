@@ -9,6 +9,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>OSCP Certified</li>
 	<li>Python</li>
 	<li>C++</li>
 	<li>Java</li>
